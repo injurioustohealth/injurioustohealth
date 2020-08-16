@@ -108,5 +108,101 @@
                 "Implemented Lazy Loading."
             ]
         }
-    ]
+    ],
+    "userSkills":
+    {
+        "programmingSkills":
+        [
+            {
+                "skillName":"HTML5",
+                "fabIcon":"fa-html5"
+              },
+              {
+                "skillName":"CSS3",
+                "fabIcon":"fa-css3-alt"
+              }, 
+              {
+                "skillName":"SCSS",
+                "fabIcon":"fa-sass"
+              },
+              {
+                "skillName":"BootStrap",
+                "fabIcon":"fa-bootstrap"
+              },
+              {
+                "skillName":"JavaScript",
+                "fabIcon":"fa-js-square"
+              },
+              {
+                "skillName":"Angular",
+                "fabIcon":"fa-angular"
+              },
+              {
+                "skillName":"Java",
+                "fabIcon":"fa-java"
+              },
+              {
+                "skillName":"NodeJS",
+                "fabIcon":"fa-node-js"
+              },
+              {
+                "skillName":"Git",
+                "fabIcon":"fa-git-alt"
+            }
+        ],
+        "softSkills":
+        [
+            {
+              "skillName":"Interpersonal skills",
+              "rating":"90"
+            },
+            {
+              "skillName":"Problem-solving",
+              "rating":"80"
+            },
+            {
+              "skillName":"Reliability",
+              "rating":"85"
+            },
+            {
+              "skillName":"Time management",
+              "rating":"70"
+            },
+            {
+              "skillName":"Communication",
+              "rating":"75"
+            },
+            {
+              "skillName":"Flexibility",
+              "rating":"64"
+            }
+        ],
+        "otherSkills":
+        [
+            {
+                "description":"Mobile-First, Responsive Design."
+            },
+            {
+                "description":"Strong HTML5, CSS and JavaScript skills with code level experience."
+              },
+              {
+                "description":"Excellent organizational, problem solving and written/verbal communication skills with fluency in English."
+              }, 
+              {
+                "description":"Cross Browser Testing & Debugging."
+              },
+              {
+                "description":"Hands-on experience in Angular 5+, JavaScript, and TypeScript."
+              }, 
+              {
+                "description":"Strong interpersonal skills to interact with the customer and team members."
+              }, 
+              {
+                "description":"Experience with Java (Spring Boot & API Development)."
+              },
+              {
+                "description":"Agile Development & Scrum."
+              }
+        ]
+    }
 }
