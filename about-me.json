@@ -111,45 +111,66 @@
     ],
     "userSkills":
     {
-        "programmingSkills":
+        "hardSkills":
+        {
+            "programmingSkills":
+            [
+                {
+                    "skillName":"HTML5",
+                    "fabIcon":"fa-html5"
+                },
+                {
+                    "skillName":"CSS3",
+                    "fabIcon":"fa-css3-alt"
+                }, 
+                {
+                    "skillName":"SCSS",
+                    "fabIcon":"fa-sass"
+                },
+                {
+                    "skillName":"BootStrap",
+                    "fabIcon":"fa-bootstrap"
+                },
+                {
+                    "skillName":"JavaScript",
+                    "fabIcon":"fa-js-square"
+                },
+                {
+                    "skillName":"Angular",
+                    "fabIcon":"fa-angular"
+                },
+                {
+                    "skillName":"Java",
+                    "fabIcon":"fa-java"
+                },
+                {
+                    "skillName":"NodeJS",
+                    "fabIcon":"fa-node-js"
+                },
+                {
+                    "skillName":"Git",
+                    "fabIcon":"fa-git-alt"
+                }
+            ],
+        "tools":
         [
             {
-                "skillName":"HTML5",
-                "fabIcon":"fa-html5"
-              },
-              {
-                "skillName":"CSS3",
-                "fabIcon":"fa-css3-alt"
-              }, 
-              {
-                "skillName":"SCSS",
-                "fabIcon":"fa-sass"
-              },
-              {
-                "skillName":"BootStrap",
-                "fabIcon":"fa-bootstrap"
-              },
-              {
-                "skillName":"JavaScript",
-                "fabIcon":"fa-js-square"
-              },
-              {
-                "skillName":"Angular",
-                "fabIcon":"fa-angular"
-              },
-              {
-                "skillName":"Java",
-                "fabIcon":"fa-java"
-              },
-              {
-                "skillName":"NodeJS",
-                "fabIcon":"fa-node-js"
-              },
-              {
-                "skillName":"Git",
-                "fabIcon":"fa-git-alt"
+                "toolName":"Visual Studio Code"
+            },
+            {
+                "toolName":"Spring Boot Tools"
+            },
+            {
+                "toolName":"Microsoft Word"
+            },
+            {
+                "toolName":"Postman"
+            },
+            {
+                "toolName":"GitBash"
             }
-        ],
+        ]
+        },
         "softSkills":
         [
             {
