@@ -225,5 +225,24 @@
                 "description":"Agile Development & Scrum."
               }
         ]
-    }
+    },
+    "userAwardsAndAppreciation":
+    [
+        {
+            "year":"2019",
+            "awardMessage":"STAR Performer 2019: Awarded as Star Performer for my contribution in IBS."
+        },
+        {
+            "year":"2020",
+            "awardMessage":"Have received multiple client appreciation for providing out-of-the-box business solutions and approaches for simplifying complex logics."
+        },
+        {
+            "year":"2019",
+            "awardMessage":"Received appreciation from management level for my contribution in ALOC UI development."
+        },
+        {
+            "year":"2020",
+            "awardMessage":"Achieved recognition for managing complex user stories for UI into simplified versions for execution."
+        }
+    ]
 }
