@@ -23,14 +23,25 @@
     [
         {
             "schoolName"    :   "GRAPHIC ERA HILL UNIVERSITY",
-            "degree"        :   "BACHELOR'S OF COMPUTER APPLICATIONS",
-            "startDate"     :   "April 2015",
+            "degree"        :   "BACHELOR OF COMPUTER APPLICATIONS",
+            "startDate"     :   "2015",
             "subjects"      :   null,
             "stream"        :   null,
-            "endDate"       :   "June 2018",
+            "endDate"       :   "2018",
             "description"   :   "Bachelor of Computer Applications is a 3 year undergraduate program that deals with the fundamentals of software development and computer applications. From computer programming to networking, everything is included in the BCA syllabus. Divided into six semesters; I have learned about cutting-edge technologies which are proficient in design and development of information technology tools.",
             "schoolLocation":   "DEHRADUN",
             "score"         :   "8.6"
+        },
+          {
+            "schoolName"    :   "SHRI GURU RAM RAI PUBLIC SCHOOL",
+            "degree"        :   "SENIOR SECONDARY (CBSE)",
+            "startDate"     :   "2015",
+            "subjects"      :   "Physics, Chemistry, Mathematics, and Computer Science",
+            "stream"        :   "Science",
+            "endDate"       :   "2016",
+            "description"   :   null,
+            "schoolLocation":   "DEHRADUN",
+            "score"         :   "8.0"
         }
     ],
     "userWorkExperience":
