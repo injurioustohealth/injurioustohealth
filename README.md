@@ -1,7 +1,7 @@
-### Hi there, I'm Vishal Sharma aka [injurioustohealth][website] 👋
+### Hi there, I'm Vishal Sharma 👋
 
 ## Front End Developer!
-- 🔭 23, Bachelor
+- 🔭 [current year - 1997]
 - 📫 Mumbai, Maharashtra, India
 - ⚡ Angular Developer
 
