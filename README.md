@@ -1,7 +1,7 @@
 ### Hi there, I'm Vishal Sharma 👋
 
 ## Front End Developer!
-- 🔭 23
+- 🔭 24
 - 📫 Mumbai, Maharashtra, India
 - ⚡ Angular Developer
 
