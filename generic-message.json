@@ -1,9 +1,4 @@
 {
-  "dailybugle":[
-    {
-      "message":"PRE BIRTHDAY SURPRISE COMING SOON!",
-      "by":"Dev Team",
-      "dated":"05-22-2021"
-    }
-  ]
+  "status":"SUCCESS",
+  "dailybugle":"PRE BIRTHDAY SURPRISE COMING SOON!"
 }
