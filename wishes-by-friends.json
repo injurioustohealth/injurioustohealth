@@ -30,11 +30,17 @@
       "dated":"05-22-2021",
       "imageURL":"https://s34960.pcdn.co/wp-content/uploads/2018/06/3-4.jpg"
     },
-        {
+    {
       "message":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "by":"User F",
       "dated":"05-22-2021",
       "imageURL":"https://drizzleandhurricanebooks.com/wp-content/uploads/2018/10/birthday.gif"
+    },
+        {
+      "message":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "by":"User G",
+      "dated":"05-22-2021",
+      "imageURL":"https://media.giphy.com/media/xT0xeInQV3Cf2azYBi/giphy.gif"
     }
   ]
 }
