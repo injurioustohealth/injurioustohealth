@@ -9,6 +9,26 @@
          "id":1,
          "imageText":"The one where it all ends",
          "imagePath":"https://cdn.onebauer.media/one/lifestyle-images/entertainment/5714f442c0481e0569e3730b/friends%20the%20last%20one.jpg"
+      },
+      {
+         "id":2,
+         "imageText":"The one where it all ends",
+         "imagePath":"https://www.sbs.com.au/guide/sites/sbs.com.au.guide/files/styles/full/public/cast_1.jpg?itok=gyGNXYak"
+      },
+      {
+         "id":3,
+         "imageText":"The one where it all ends",
+         "imagePath":"https://www.beano.com/wp-content/uploads/legacy/38387_friends.jpg?quality=76&strip=all&w=887"
+      },
+      {
+         "id":4,
+         "imageText":"The one where it all ends",
+         "imagePath":"https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/01/14/11/friendstv1301B.jpg?width=968&auto=webp&quality=75&crop=968%3A645%2Csmart"
+      },
+      {
+         "id":5,
+         "imageText":"The one where it all ends",
+         "imagePath":"https://images.thequint.com/thequint%2F2019-02%2F1be62145-d7ff-4498-9ee1-d0fcbc242b25%2FFRIENDS.jpg?rect=0%2C0%2C1024%2C576&w=1200&auto=format%2Ccompress&ogImage=true"
       }
    ]
 }
