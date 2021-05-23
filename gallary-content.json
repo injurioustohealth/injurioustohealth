@@ -1,14 +1,14 @@
 {
-  "polaroid":[
-    {
-      "id":0,
-      imageText:"",
-      "imagePath":""
-    },
-    {
-      "id":1,
-      imageText:"",
-      "imagePath":""
-    }
-  ]
+   "polaroid":[
+      {
+         "id":0,
+         "imageText":"The one where it all started",
+         "imagePath":"https://miro.medium.com/max/5584/1*qrKowtmKmVgdvzshskXyTg.jpeg"
+      },
+      {
+         "id":1,
+         "imageText":"The one where it all ends",
+         "imagePath":"https://cdn.onebauer.media/one/lifestyle-images/entertainment/5714f442c0481e0569e3730b/friends%20the%20last%20one.jpg"
+      }
+   ]
 }
