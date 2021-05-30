@@ -70,6 +70,11 @@
          "id":0,
          "imageText":"The one where it all started...",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/IMG_20190422_225003_137.jpg?alt=media&token=8a7a204a-5f20-43f6-b623-af540df40c3d"
+      },
+      {
+         "id":1,
+         "imageText":"The one where it all started...",
+         "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/remember-when%2Fremember_when_2.jpg?alt=media&token=1c8dfc32-6f9b-403f-821f-4a2af7f0c428"
       }
     ]
 }
