@@ -32,7 +32,7 @@
       }
    ],
    "polaroidsOffice":[
-       {
+      {
          "id":0,
          "imageText":"Office Party",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/theoffice%2Foffice_1.jpg?alt=media&token=ddeb4080-1461-4b55-8596-89dfdc409f85"
@@ -52,12 +52,12 @@
          "imageText":"Office Party",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/theoffice%2Foffice_4.jpg?alt=media&token=86f9b2c7-c9bb-40cc-954f-23def0f563aa"
       },
-       {
+      {
          "id":4,
          "imageText":"Office Party",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/theoffice%2Foffice_5.jpg?alt=media&token=08c25f15-74bb-499b-b15b-df15c7acb0f8"
       }
-    ],
+   ],
    "polaroidsTrips":[
       {
          "id":0,
@@ -69,7 +69,7 @@
          "imageText":"Mahabaleshwar 2019",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/adventure%2FIMG_20190622_042639.jpg?alt=media&token=b58d826a-04e0-44b0-a54a-e368a667fa59"
       },
-       {
+      {
          "id":2,
          "imageText":"Mussoorie 2019",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/adventure%2FIMG_20210123_143427.jpg?alt=media&token=5983d71d-8d8b-4468-8520-d6f5ac1a89da"
@@ -84,7 +84,7 @@
          "imageText":"Mussoorie 2021",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/adventure%2FIMG_20210124_160111.jpg?alt=media&token=26576d05-6c8a-4339-b49c-667e83566860"
       }
-    ],
+   ],
    "polaroidsFunDays":[
       {
          "id":0,
@@ -96,5 +96,5 @@
          "imageText":"The one where it all started...",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/remember-when%2Fremember_when_2.jpg?alt=media&token=1c8dfc32-6f9b-403f-821f-4a2af7f0c428"
       }
-    ]
+   ]
 }
