@@ -95,6 +95,21 @@
          "id":1,
          "imageText":"The one where it all started...",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/remember-when%2Fremember_when_2.jpg?alt=media&token=1c8dfc32-6f9b-403f-821f-4a2af7f0c428"
+      },
+       {
+         "id":2,
+         "imageText":"After the fight...",
+         "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/remember-when%2Fremember_when_5.jpg?alt=media&token=377b4b99-94f1-4559-8882-fdefee6aed0b"
+      },
+      {
+         "id":3,
+         "imageText":"Puppy Cuddles",
+         "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/remember-when%2Fremember_when_3.jpg?alt=media&token=7dcf8047-71a0-4cd6-afb9-a0787f9ebec5"
+      },
+      {
+         "id":4,
+         "imageText":"With a good boy...",
+         "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/remember-when%2Fremember_when_4.jpg?alt=media&token=88a44763-4f8e-4efe-bb78-f12fb2338b03"
       }
    ]
 }
