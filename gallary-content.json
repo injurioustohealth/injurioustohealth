@@ -2,12 +2,12 @@
    "polaroid":[
       {
          "id":0,
-         "imageText":"The one where it all started",
+         "imageText":"The one where it all started.",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/manusmriti%2Fmanusmrithi_1.jpg?alt=media&token=ec007618-f698-4bd6-af70-8ab8173f448e"
       },
       {
          "id":1,
-         "imageText":"The one where it all ends",
+         "imageText":"Chicken Legs...",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/manusmriti%2Fmanusmrithi_2.jpg?alt=media&token=e498a051-8018-4d54-9045-fac062b329f5"
       },
       {
@@ -17,17 +17,17 @@
       },
       {
          "id":3,
-         "imageText":"The one where it all ends",
+         "imageText":"New Life",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/manusmriti%2Fmanusmrithi_4.jpg?alt=media&token=798c1042-62c6-4b3f-a0b8-77d2fb289ac8"
       },
       {
          "id":4,
-         "imageText":"The one where it all ends",
+         "imageText":"N/A",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/manusmriti%2Fmanusmrithi_5.jpg?alt=media&token=f7150a0f-34a8-4eaf-96df-3717ea27af99"
       },
       {
          "id":5,
-         "imageText":"The one where it all ends",
+         "imageText":"N/A",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/manusmriti%2Fmanusmrithi_6.jpg?alt=media&token=92f73e7e-b09f-41b0-992f-08ab700e1e7c"
       }
    ],
