@@ -83,7 +83,22 @@
          "id":4,
          "imageText":"Mussoorie 2021",
          "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/adventure%2FIMG_20210124_160111.jpg?alt=media&token=26576d05-6c8a-4339-b49c-667e83566860"
-      }
+      },
+      {
+    "id":5,
+    "imageText":"Imagica Trip",
+    "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/adventure%2FTrip_8.jpg?alt=media&token=17e2cf0a-84c6-4e03-a2ee-a891c0b11c00"
+},
+{
+    "id":6,
+    "imageText":"Imagica Trip",
+    "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/adventure%2FTrip_6.jpg?alt=media&token=76f6c2dd-982e-4bce-a471-d665f80ad904"
+},
+{
+    "id":7,
+    "imageText":"Imagica Trip",
+    "imagePath":"https://firebasestorage.googleapis.com/v0/b/divss-birthday.appspot.com/o/adventure%2FTrip_7.jpg?alt=media&token=bf273c9e-d64b-4b3f-bf4e-2ac9962fd62e"
+}
    ],
    "polaroidsFunDays":[
       {
